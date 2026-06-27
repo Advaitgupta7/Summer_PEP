@@ -67,7 +67,6 @@ int main() {
     else
         cout << "No" << endl;
 
-    // clear()
     v.clear();
 
     cout << "Size after clear(): " << v.size() << endl;
